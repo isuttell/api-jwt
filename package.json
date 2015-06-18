@@ -1,0 +1,29 @@
+{
+  "name": "api-jwt",
+  "version": "0.1.0",
+  "description": "JSON Web Tokens Middleware",
+  "main": "index.js",
+  "dependencies": {
+    "jsonwebtoken": "^5.0.2",
+    "lodash": "^3.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/isuttell/api-jwt.git"
+  },
+  "keywords": [
+    "jwt",
+    "express.js",
+    "middleware"
+  ],
+  "author": "Isaac Suttell <isaac@isaacsuttell.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isuttell/api-jwt/issues"
+  },
+  "homepage": "https://github.com/isuttell/api-jwt"
+}
