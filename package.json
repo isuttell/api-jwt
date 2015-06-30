@@ -4,6 +4,7 @@
   "description": "JSON Web Tokens Middleware",
   "main": "index.js",
   "dependencies": {
+    "debug": "^2.2.0",
     "jsonwebtoken": "^5.0.2",
     "lodash": "^3.9.3"
   },
